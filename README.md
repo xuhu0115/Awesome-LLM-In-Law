@@ -6,7 +6,7 @@ Collect and organize relevant content on LLM in the legal field, including model
 
 | Title                                  | Brief Introduction                                                                                                                                     | Citation                         | Read notes                                               |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | -------------------------------------------------------- |
-| Large Language Models in Law: A Survey | The first review article on LLM in the legal industry provides a comprehensive overview of the current developments and challenges faced in this field | https://arxiv.org/abs/2312.03718 | [链接]([https://github.com/xuhu0115/Awesome-LLM-In-Law//Paper-note/Large-Language-Models-in-Law---A-Survey.md](https://github.com/xuhu0115/Awesome-LLM-In-Law/blob/main/Paper-note/Large%20Language%20Models%20in%20Law%20-%20A%20Survey.md)) |
+| Large Language Models in Law: A Survey | The first review article on LLM in the legal industry provides a comprehensive overview of the current developments and challenges faced in this field | https://arxiv.org/abs/2312.03718 | [链接](https://github.com/xuhu0115/Awesome-LLM-In-Law/blob/main/Paper-note/Large%20Language%20Models%20in%20Law%20-%20A%20Survey.md) |
 
 ## Model
 
